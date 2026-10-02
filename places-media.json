@@ -15,7 +15,7 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "source": "https://commons.wikimedia.org/wiki/File:Munnar_Overview.jpg"
     },
-    "photo": "photos/munnar.jpg"
+    "photo": "munnar.jpg"
   },
   "eravikulam": {
     "source": "https://en.wikipedia.org/wiki/Eravikulam_National_Park",
@@ -33,7 +33,7 @@
       "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
       "source": "https://commons.wikimedia.org/wiki/File:Eravikulam_National_Park_(49444006652).jpg"
     },
-    "photo": "photos/eravikulam.jpg"
+    "photo": "eravikulam.jpg"
   },
   "mattupetty": {
     "source": "https://en.wikipedia.org/wiki/Mattupetty_Dam",
@@ -51,7 +51,7 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "source": "https://commons.wikimedia.org/wiki/File:Mattupetty_Dam.jpg"
     },
-    "photo": "photos/mattupetty.jpg"
+    "photo": "mattupetty.jpg"
   },
   "top-station": {
     "source": "https://en.wikipedia.org/wiki/Top_Station",
@@ -64,7 +64,7 @@
       "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
       "source": "https://commons.wikimedia.org/wiki/File:Munnar_Top_station.jpg"
     },
-    "photo": "photos/top-station.jpg"
+    "photo": "top-station.jpg"
   },
   "vagamon": {
     "source": "https://en.wikipedia.org/wiki/Vagamon",
@@ -82,7 +82,7 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "source": "https://commons.wikimedia.org/wiki/File:Vagamon_meadows.JPG"
     },
-    "photo": "photos/vagamon.jpg"
+    "photo": "vagamon.jpg"
   },
   "periyar": {
     "source": "https://en.wikipedia.org/wiki/Periyar_National_Park",
@@ -99,7 +99,7 @@
       "license": "Public domain",
       "source": "https://commons.wikimedia.org/wiki/File:Periyar_National_Park.JPG"
     },
-    "photo": "photos/periyar.jpg"
+    "photo": "periyar.jpg"
   },
   "ramakkalmedu": {
     "source": "https://en.wikipedia.org/wiki/Ramakkalmedu",
@@ -115,7 +115,7 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "source": "https://commons.wikimedia.org/wiki/File:Statue_of_Kuruvan_%26_Kuruthi.jpg"
     },
-    "photo": "photos/ramakkalmedu.jpg",
+    "photo": "ramakkalmedu.jpg",
     "coordinateSource": "https://www.wikidata.org/wiki/Q7288793"
   },
   "idukki": {
@@ -134,7 +134,7 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5/in/deed.en",
       "source": "https://commons.wikimedia.org/wiki/File:Idukki009.jpg"
     },
-    "photo": "photos/idukki.jpg"
+    "photo": "idukki.jpg"
   },
   "chembra": {
     "source": "https://en.wikipedia.org/wiki/Chembra_Peak",
@@ -152,7 +152,7 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "source": "https://commons.wikimedia.org/wiki/File:Chembra.jpg"
     },
-    "photo": "photos/chembra.jpg"
+    "photo": "chembra.jpg"
   },
   "edakkal": {
     "source": "https://en.wikipedia.org/wiki/Edakkal_caves",
@@ -170,7 +170,7 @@
       "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
       "source": "https://commons.wikimedia.org/wiki/File:Edakkal_Cave.jpg"
     },
-    "photo": "photos/edakkal.jpg"
+    "photo": "edakkal.jpg"
   },
   "banasura": {
     "source": "https://en.wikipedia.org/wiki/Banasura_Sagar_Dam",
@@ -188,7 +188,7 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
       "source": "https://commons.wikimedia.org/wiki/File:Banasurasagar_Main_Dam.jpg"
     },
-    "photo": "photos/banasura.jpg"
+    "photo": "banasura.jpg"
   },
   "pookode": {
     "source": "https://en.wikipedia.org/wiki/Pookode_Lake",
@@ -206,7 +206,7 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "source": "https://commons.wikimedia.org/wiki/File:Wayanad_-_Pookode_Lake_-_1.jpg"
     },
-    "photo": "photos/pookode.jpg"
+    "photo": "pookode.jpg"
   },
   "soochipara": {
     "source": "https://en.wikipedia.org/wiki/Soochipara_Falls",
@@ -222,7 +222,7 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
       "source": "https://commons.wikimedia.org/wiki/File:Kerala_-_Sentinel_Falls_(15784346247).jpg"
     },
-    "photo": "photos/soochipara.jpg",
+    "photo": "soochipara.jpg",
     "coordinateSource": "https://www.wikidata.org/wiki/Q38299"
   },
   "wayanad-wildlife": {
@@ -241,7 +241,7 @@
       "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
       "source": "https://commons.wikimedia.org/wiki/File:Misty_Wayanad_Wildlife_Sanctuary,_Muthanga_Range_-_panoramio_(3).jpg"
     },
-    "photo": "photos/wayanad-wildlife.jpg"
+    "photo": "wayanad-wildlife.jpg"
   },
   "athirappilly": {
     "source": "https://en.wikipedia.org/wiki/Athirappilly_Falls",
@@ -259,7 +259,7 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "source": "https://commons.wikimedia.org/wiki/File:The_View_of_the_Athirapally_Falls_during_the_onset_of_Monsoon.jpg"
     },
-    "photo": "photos/athirappilly.jpg"
+    "photo": "athirappilly.jpg"
   },
   "vazhachal": {
     "source": "https://en.wikipedia.org/wiki/Vazhachal_Falls",
@@ -277,7 +277,7 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "source": "https://commons.wikimedia.org/wiki/File:The_full_flowing_Vazhachal_Falls_on_the_upper_reaches_of_Chalakudy_River.jpg"
     },
-    "photo": "photos/vazhachal.jpg"
+    "photo": "vazhachal.jpg"
   },
   "kalamandalam": {
     "source": "https://en.wikipedia.org/wiki/Kerala_Kalamandalam",
@@ -295,7 +295,7 @@
       "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
       "source": "https://commons.wikimedia.org/wiki/File:Koothambalam_at_Kerala_Kalamandalam.jpg"
     },
-    "photo": "photos/kalamandalam.jpg"
+    "photo": "kalamandalam.jpg"
   },
   "silent-valley": {
     "source": "https://en.wikipedia.org/wiki/Silent_Valley_National_Park",
@@ -313,7 +313,7 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "source": "https://commons.wikimedia.org/wiki/File:SAN_BIRDS_48.jpg"
     },
-    "photo": "photos/silent-valley.jpg"
+    "photo": "silent-valley.jpg"
   },
   "nelliyampathy": {
     "source": "https://en.wikipedia.org/wiki/Nelliampathi",
@@ -331,7 +331,7 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "source": "https://commons.wikimedia.org/wiki/File:The_Western_Ghats003.jpg"
     },
-    "photo": "photos/nelliyampathy.jpg"
+    "photo": "nelliyampathy.jpg"
   },
   "malampuzha": {
     "source": "https://en.wikipedia.org/wiki/Malampuzha_Dam",
@@ -347,7 +347,7 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "source": "https://commons.wikimedia.org/wiki/File:Malampuzha_Dam_Navas_10.jpg"
     },
-    "photo": "photos/malampuzha.jpg",
+    "photo": "malampuzha.jpg",
     "coordinateSource": "https://www.wikidata.org/wiki/Q3530977"
   },
   "alleppey": {
@@ -366,7 +366,7 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "source": "https://commons.wikimedia.org/wiki/File:Alappuzha_Boat_Beauty_W.jpg"
     },
-    "photo": "photos/alleppey.jpg"
+    "photo": "alleppey.jpg"
   },
   "marari": {
     "source": "https://en.wikipedia.org/wiki/Marari_Beach",
@@ -384,7 +384,7 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "source": "https://commons.wikimedia.org/wiki/File:Marari_Beach_Sunset_01.JPG"
     },
-    "photo": "photos/marari.jpg"
+    "photo": "marari.jpg"
   },
   "kuttanad": {
     "source": "https://en.wikipedia.org/wiki/Kuttanad",
@@ -402,7 +402,7 @@
       "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
       "source": "https://commons.wikimedia.org/wiki/File:Kerala_Kuttanad1.jpg"
     },
-    "photo": "photos/kuttanad.jpg"
+    "photo": "kuttanad.jpg"
   },
   "kumarakom": {
     "source": "https://en.wikipedia.org/wiki/Kumarakom",
@@ -420,7 +420,7 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "source": "https://commons.wikimedia.org/wiki/File:Kumarkom.jpg"
     },
-    "photo": "photos/kumarakom.jpg"
+    "photo": "kumarakom.jpg"
   },
   "illikkal": {
     "source": "https://en.wikipedia.org/wiki/Illickal_Kallu",
@@ -438,7 +438,7 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "source": "https://commons.wikimedia.org/wiki/File:Illikkal_Kallu_(%E0%B4%87%E0%B4%B2%E0%B5%8D%E0%B4%B2%E0%B4%BF%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B5%BD_%E0%B4%95%E0%B4%B2%E0%B5%8D%E0%B4%B2%E0%B5%8D_).jpg"
     },
-    "photo": "photos/illikkal.jpg"
+    "photo": "illikkal.jpg"
   },
   "kochi": {
     "source": "https://en.wikipedia.org/wiki/Fort_Kochi",
@@ -456,7 +456,7 @@
       "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
       "source": "https://commons.wikimedia.org/wiki/File:Kochi,_Fishing_nets_at_sunset,_Kerala,_India.jpg"
     },
-    "photo": "photos/kochi.jpg"
+    "photo": "kochi.jpg"
   },
   "cherai": {
     "source": "https://en.wikipedia.org/wiki/Cherai_Beach",
@@ -474,7 +474,7 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "source": "https://commons.wikimedia.org/wiki/File:Sunrise_at_Cherai_Beach.jpg"
     },
-    "photo": "photos/cherai.jpg"
+    "photo": "cherai.jpg"
   },
   "thattekad": {
     "source": "https://en.wikipedia.org/wiki/Thattekad_Bird_Sanctuary",
@@ -492,7 +492,7 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
       "source": "https://commons.wikimedia.org/wiki/File:Ocyceros_griseus_-India-8a.jpg"
     },
-    "photo": "photos/thattekad.jpg"
+    "photo": "thattekad.jpg"
   },
   "gavi": {
     "source": "https://en.wikipedia.org/wiki/Gavi,_Kerala",
@@ -508,7 +508,7 @@
       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
       "source": "https://commons.wikimedia.org/wiki/File:Gavi_Eco_tourism_center_kochupamba.jpg"
     },
-    "photo": "photos/gavi.jpg",
+    "photo": "gavi.jpg",
     "coordinateSource": "https://www.wikidata.org/wiki/Q5528054"
   },
   "konni": {
@@ -526,7 +526,7 @@
       "license": "Public domain",
       "source": "https://commons.wikimedia.org/wiki/File:%E0%B4%95%E0%B5%8B%E0%B4%A8%E0%B5%8D%E0%B4%A8%E0%B4%BF_%E0%B4%86%E0%B4%A8%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B5%82%E0%B4%9F%E0%B5%8D2.JPG"
     },
-    "photo": "photos/konni.jpg"
+    "photo": "konni.jpg"
   },
   "aranmula": {
     "source": "https://en.wikipedia.org/wiki/Aranmula",
@@ -544,7 +544,7 @@
       "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
       "source": "https://commons.wikimedia.org/wiki/File:Aranmula_Temple.JPG"
     },
-    "photo": "photos/aranmula.jpg"
+    "photo": "aranmula.jpg"
   },
   "munroe": {
     "source": "https://en.wikipedia.org/wiki/Munroe_Island",
@@ -562,7 +562,7 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "source": "https://commons.wikimedia.org/wiki/File:Beautiful_Munroe_Island_,_kollam_district_,_kerala.jpg"
     },
-    "photo": "photos/munroe.jpg"
+    "photo": "munroe.jpg"
   },
   "thenmala": {
     "source": "https://en.wikipedia.org/wiki/Thenmala",
@@ -580,7 +580,7 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "source": "https://commons.wikimedia.org/wiki/File:13_kannara_bridge_near_shencottah.jpeg"
     },
-    "photo": "photos/thenmala.jpg"
+    "photo": "thenmala.jpg"
   },
   "ashtamudi": {
     "source": "https://en.wikipedia.org/wiki/Ashtamudi_Lake",
@@ -598,7 +598,7 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "source": "https://commons.wikimedia.org/wiki/File:Ashtamudi_Kerala.jpg"
     },
-    "photo": "photos/ashtamudi.jpg"
+    "photo": "ashtamudi.jpg"
   },
   "varkala": {
     "source": "https://en.wikipedia.org/wiki/Varkala_Beach",
@@ -614,7 +614,7 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "source": "https://commons.wikimedia.org/wiki/File:Varkala_beach_from_above.jpg"
     },
-    "photo": "photos/varkala.jpg",
+    "photo": "varkala.jpg",
     "coordinateSource": "https://www.wikidata.org/wiki/Q7915960"
   },
   "ponmudi": {
@@ -633,7 +633,7 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "source": "https://commons.wikimedia.org/wiki/File:Morning_at_Ponmudi.jpg"
     },
-    "photo": "photos/ponmudi.jpg"
+    "photo": "ponmudi.jpg"
   },
   "kovalam": {
     "source": "https://en.wikipedia.org/wiki/Kovalam",
@@ -651,7 +651,7 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "source": "https://commons.wikimedia.org/wiki/File:Kovalam_beach_trivandrum_kerala.jpg"
     },
-    "photo": "photos/kovalam.jpg"
+    "photo": "kovalam.jpg"
   },
   "neyyar": {
     "source": "https://en.wikipedia.org/wiki/Neyyar_Wildlife_Sanctuary",
@@ -669,7 +669,7 @@
       "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
       "source": "https://commons.wikimedia.org/wiki/File:Dear_park.jpg"
     },
-    "photo": "photos/neyyar.jpg"
+    "photo": "neyyar.jpg"
   },
   "bekal": {
     "source": "https://en.wikipedia.org/wiki/Bekal_Fort",
@@ -687,7 +687,7 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "source": "https://commons.wikimedia.org/wiki/File:Bakel_Fort_Beach_Kasaragod7.jpg"
     },
-    "photo": "photos/bekal.jpg"
+    "photo": "bekal.jpg"
   },
   "ranipuram": {
     "source": "https://en.wikipedia.org/wiki/Ranipuram",
@@ -705,7 +705,7 @@
       "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
       "source": "https://commons.wikimedia.org/wiki/File:Ranipuram.jpg"
     },
-    "photo": "photos/ranipuram.jpg"
+    "photo": "ranipuram.jpg"
   },
   "valiyaparamba": {
     "source": "https://en.wikipedia.org/wiki/Valiyaparamba",
@@ -723,7 +723,7 @@
       "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
       "source": "https://commons.wikimedia.org/wiki/File:Valiyaparamba_Madakkal_suspension_bridge.JPG"
     },
-    "photo": "photos/valiyaparamba.jpg"
+    "photo": "valiyaparamba.jpg"
   },
   "paithalmala": {
     "source": "https://en.wikipedia.org/wiki/Paithalmala",
@@ -739,7 +739,7 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "source": "https://commons.wikimedia.org/wiki/File:Paithalmala.jpg"
     },
-    "photo": "photos/paithalmala.jpg",
+    "photo": "paithalmala.jpg",
     "coordinateSource": "https://www.wikidata.org/wiki/Q7908895"
   },
   "muzhappilangad": {
@@ -758,7 +758,7 @@
       "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
       "source": "https://commons.wikimedia.org/wiki/File:Muzhappilangad_Drive-in_Beach_2.jpg"
     },
-    "photo": "photos/muzhappilangad.jpg"
+    "photo": "muzhappilangad.jpg"
   },
   "aralam": {
     "source": "https://en.wikipedia.org/wiki/Aralam_Butterfly_Sanctuary",
@@ -775,7 +775,7 @@
       "license": "Public domain",
       "source": "https://commons.wikimedia.org/wiki/File:%E0%B4%86%E0%B4%B1%E0%B4%B3%E0%B4%82_%E0%B4%B5%E0%B4%A8%E0%B5%8D%E0%B4%AF%E0%B4%9C%E0%B5%80%E0%B4%B5%E0%B4%BF_%E0%B4%B8%E0%B4%82%E0%B4%B0%E0%B4%95%E0%B5%8D%E0%B4%B7%E0%B4%A3%E0%B4%95%E0%B5%87%E0%B4%A8%E0%B5%8D%E0%B4%A6%E0%B5%8D%E0%B4%B0%E0%B4%82-%E0%B4%95%E0%B4%B5%E0%B4%BE%E0%B4%9F%E0%B4%82.jpg"
     },
-    "photo": "photos/aralam.jpg"
+    "photo": "aralam.jpg"
   },
   "kozhikode": {
     "source": "https://en.wikipedia.org/wiki/Kozhikode_Beach",
@@ -791,7 +791,7 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "source": "https://commons.wikimedia.org/wiki/File:Kozhikode_Beach_Coastline.jpg"
     },
-    "photo": "photos/kozhikode.jpg",
+    "photo": "kozhikode.jpg",
     "coordinateSource": "https://www.wikidata.org/wiki/Q56240718"
   },
   "thusharagiri": {
@@ -810,7 +810,7 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "source": "https://commons.wikimedia.org/wiki/File:Thusharagiri_Waterfalls_-_%E0%B4%A4%E0%B5%81%E0%B4%B7%E0%B4%BE%E0%B4%B0%E0%B4%97%E0%B4%BF%E0%B4%B0%E0%B4%BF_%E0%B4%B5%E0%B5%86%E0%B4%B3%E0%B5%8D%E0%B4%B3%E0%B4%9A%E0%B5%8D%E0%B4%9A%E0%B4%BE%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B4%82_09.jpg"
     },
-    "photo": "photos/thusharagiri.jpg"
+    "photo": "thusharagiri.jpg"
   },
   "kadalundi": {
     "source": "https://en.wikipedia.org/wiki/Kadalundi_Bird_Sanctuary",
@@ -828,7 +828,7 @@
       "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
       "source": "https://commons.wikimedia.org/wiki/File:Kadalundi_Bird_Sanctuary.jpg"
     },
-    "photo": "photos/kadalundi.jpg"
+    "photo": "kadalundi.jpg"
   },
   "nilambur": {
     "source": "https://en.wikipedia.org/wiki/Nilambur",
@@ -846,7 +846,7 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "source": "https://commons.wikimedia.org/wiki/File:Great_Horn_Bill_1.jpg"
     },
-    "photo": "photos/nilambur.jpg"
+    "photo": "nilambur.jpg"
   },
   "kodikuthimala": {
     "source": "https://en.wikipedia.org/wiki/Kodikuthimala",
@@ -859,6 +859,6 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "source": "https://commons.wikimedia.org/wiki/File:Kodikuthimala,_Malappuram.jpg"
     },
-    "photo": "photos/kodikuthimala.jpg"
+    "photo": "kodikuthimala.jpg"
   }
 }
