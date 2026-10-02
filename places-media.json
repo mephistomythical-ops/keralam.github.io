@@ -1,0 +1,864 @@
+{
+  "munnar": {
+    "source": "https://en.wikipedia.org/wiki/Munnar",
+    "coordinates": {
+      "lat": 10.08916667,
+      "lon": 77.05972222,
+      "primary": "",
+      "globe": "earth"
+    },
+    "photoFile": "Munnar_Overview.jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Munnar_Overview.jpg/960px-Munnar_Overview.jpg",
+    "credit": {
+      "author": "Kondephy",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Munnar_Overview.jpg"
+    },
+    "photo": "photos/munnar.jpg"
+  },
+  "eravikulam": {
+    "source": "https://en.wikipedia.org/wiki/Eravikulam_National_Park",
+    "coordinates": {
+      "lat": 10.2,
+      "lon": 77.083,
+      "primary": "",
+      "globe": "earth"
+    },
+    "photoFile": "Eravikulam_National_Park_(49444006652).jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Eravikulam_National_Park_%2849444006652%29.jpg/960px-Eravikulam_National_Park_%2849444006652%29.jpg",
+    "credit": {
+      "author": "Mike Prince from Bangalore, India",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Eravikulam_National_Park_(49444006652).jpg"
+    },
+    "photo": "photos/eravikulam.jpg"
+  },
+  "mattupetty": {
+    "source": "https://en.wikipedia.org/wiki/Mattupetty_Dam",
+    "coordinates": {
+      "lat": 10.106,
+      "lon": 77.124,
+      "primary": "",
+      "globe": "earth"
+    },
+    "photoFile": "Mattupetty_Dam.jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Mattupetty_Dam.jpg/960px-Mattupetty_Dam.jpg",
+    "credit": {
+      "author": "DdraconiandevilL",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Mattupetty_Dam.jpg"
+    },
+    "photo": "photos/mattupetty.jpg"
+  },
+  "top-station": {
+    "source": "https://en.wikipedia.org/wiki/Top_Station",
+    "coordinates": null,
+    "photoFile": "Munnar Top station.jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Munnar_Top_station.jpg/960px-Munnar_Top_station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": {
+      "author": "Bimal K C from Cochin, India",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Munnar_Top_station.jpg"
+    },
+    "photo": "photos/top-station.jpg"
+  },
+  "vagamon": {
+    "source": "https://en.wikipedia.org/wiki/Vagamon",
+    "coordinates": {
+      "lat": 9.68777778,
+      "lon": 76.90694444,
+      "primary": "",
+      "globe": "earth"
+    },
+    "photoFile": "Vagamon_meadows.JPG",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Vagamon_meadows.JPG/960px-Vagamon_meadows.JPG",
+    "credit": {
+      "author": "Visakh wiki",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Vagamon_meadows.JPG"
+    },
+    "photo": "photos/vagamon.jpg"
+  },
+  "periyar": {
+    "source": "https://en.wikipedia.org/wiki/Periyar_National_Park",
+    "coordinates": {
+      "lat": 9.5775,
+      "lon": 77.18,
+      "primary": "",
+      "globe": "earth"
+    },
+    "photoFile": "Periyar_National_Park.JPG",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Periyar_National_Park.JPG/960px-Periyar_National_Park.JPG",
+    "credit": {
+      "author": "Wouter Hagens",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Periyar_National_Park.JPG"
+    },
+    "photo": "photos/periyar.jpg"
+  },
+  "ramakkalmedu": {
+    "source": "https://en.wikipedia.org/wiki/Ramakkalmedu",
+    "coordinates": {
+      "lat": 9.79972222,
+      "lon": 77.23722222
+    },
+    "photoFile": "Statue_of_Kuruvan_&_Kuruthi.jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Statue_of_Kuruvan_%26_Kuruthi.jpg/960px-Statue_of_Kuruvan_%26_Kuruthi.jpg",
+    "credit": {
+      "author": "Augustus Binu : flickr",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Statue_of_Kuruvan_%26_Kuruthi.jpg"
+    },
+    "photo": "photos/ramakkalmedu.jpg",
+    "coordinateSource": "https://www.wikidata.org/wiki/Q7288793"
+  },
+  "idukki": {
+    "source": "https://en.wikipedia.org/wiki/Idukki_Dam",
+    "coordinates": {
+      "lat": 9.84277778,
+      "lon": 76.97611111,
+      "primary": "",
+      "globe": "earth"
+    },
+    "photoFile": "Idukki009.jpg",
+    "remote": "https://upload.wikimedia.org/wikipedia/commons/7/72/Idukki009.jpg",
+    "credit": {
+      "author": "KSEB",
+      "license": "CC BY-SA 2.5 in",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5/in/deed.en",
+      "source": "https://commons.wikimedia.org/wiki/File:Idukki009.jpg"
+    },
+    "photo": "photos/idukki.jpg"
+  },
+  "chembra": {
+    "source": "https://en.wikipedia.org/wiki/Chembra_Peak",
+    "coordinates": {
+      "lat": 11.51222222,
+      "lon": 76.08944444,
+      "primary": "",
+      "globe": "earth"
+    },
+    "photoFile": "Chembra.jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Chembra.jpg/960px-Chembra.jpg",
+    "credit": {
+      "author": "Aneesh Jose",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Chembra.jpg"
+    },
+    "photo": "photos/chembra.jpg"
+  },
+  "edakkal": {
+    "source": "https://en.wikipedia.org/wiki/Edakkal_caves",
+    "coordinates": {
+      "lat": 11.62466944,
+      "lon": 76.2358,
+      "primary": "",
+      "globe": "earth"
+    },
+    "photoFile": "Edakkal_Cave.jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Edakkal_Cave.jpg/960px-Edakkal_Cave.jpg",
+    "credit": {
+      "author": "നിരക്ഷരൻ at Malayalam Wikipedia.",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Edakkal_Cave.jpg"
+    },
+    "photo": "photos/edakkal.jpg"
+  },
+  "banasura": {
+    "source": "https://en.wikipedia.org/wiki/Banasura_Sagar_Dam",
+    "coordinates": {
+      "lat": 11.67,
+      "lon": 75.95777778,
+      "primary": "",
+      "globe": "earth"
+    },
+    "photoFile": "Banasurasagar_Main_Dam.jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Banasurasagar_Main_Dam.jpg/960px-Banasurasagar_Main_Dam.jpg",
+    "credit": {
+      "author": "KSEB",
+      "license": "CC BY-SA 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "source": "https://commons.wikimedia.org/wiki/File:Banasurasagar_Main_Dam.jpg"
+    },
+    "photo": "photos/banasura.jpg"
+  },
+  "pookode": {
+    "source": "https://en.wikipedia.org/wiki/Pookode_Lake",
+    "coordinates": {
+      "lat": 11.5424566,
+      "lon": 76.0272233,
+      "primary": "",
+      "globe": "earth"
+    },
+    "photoFile": "Wayanad - Pookode Lake - 1.jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Wayanad_-_Pookode_Lake_-_1.jpg/960px-Wayanad_-_Pookode_Lake_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": {
+      "author": "Ingo Mehling",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Wayanad_-_Pookode_Lake_-_1.jpg"
+    },
+    "photo": "photos/pookode.jpg"
+  },
+  "soochipara": {
+    "source": "https://en.wikipedia.org/wiki/Soochipara_Falls",
+    "coordinates": {
+      "lat": 11.511388888888888,
+      "lon": 76.16361111111111
+    },
+    "photoFile": "Kerala_-_Sentinel_Falls_(15784346247).jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Kerala_-_Sentinel_Falls_%2815784346247%29.jpg/960px-Kerala_-_Sentinel_Falls_%2815784346247%29.jpg",
+    "credit": {
+      "author": "Dumphasizer",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Kerala_-_Sentinel_Falls_(15784346247).jpg"
+    },
+    "photo": "photos/soochipara.jpg",
+    "coordinateSource": "https://www.wikidata.org/wiki/Q38299"
+  },
+  "wayanad-wildlife": {
+    "source": "https://en.wikipedia.org/wiki/Wayanad_Wildlife_Sanctuary",
+    "coordinates": {
+      "lat": 11.646,
+      "lon": 76.364,
+      "primary": "",
+      "globe": "earth"
+    },
+    "photoFile": "Misty Wayanad Wildlife Sanctuary, Muthanga Range - panoramio (3).jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Misty_Wayanad_Wildlife_Sanctuary%2C_Muthanga_Range_-_panoramio_%283%29.jpg/960px-Misty_Wayanad_Wildlife_Sanctuary%2C_Muthanga_Range_-_panoramio_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": {
+      "author": "Jaseem Hamza",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Misty_Wayanad_Wildlife_Sanctuary,_Muthanga_Range_-_panoramio_(3).jpg"
+    },
+    "photo": "photos/wayanad-wildlife.jpg"
+  },
+  "athirappilly": {
+    "source": "https://en.wikipedia.org/wiki/Athirappilly_Falls",
+    "coordinates": {
+      "lat": 10.28472222,
+      "lon": 76.56861111,
+      "primary": "",
+      "globe": "earth"
+    },
+    "photoFile": "The_View_of_the_Athirapally_Falls_during_the_onset_of_Monsoon.jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/The_View_of_the_Athirapally_Falls_during_the_onset_of_Monsoon.jpg/960px-The_View_of_the_Athirapally_Falls_during_the_onset_of_Monsoon.jpg",
+    "credit": {
+      "author": "Jan Joseph George",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:The_View_of_the_Athirapally_Falls_during_the_onset_of_Monsoon.jpg"
+    },
+    "photo": "photos/athirappilly.jpg"
+  },
+  "vazhachal": {
+    "source": "https://en.wikipedia.org/wiki/Vazhachal_Falls",
+    "coordinates": {
+      "lat": 10.30142222,
+      "lon": 76.59276389,
+      "primary": "",
+      "globe": "earth"
+    },
+    "photoFile": "The_full_flowing_Vazhachal_Falls_on_the_upper_reaches_of_Chalakudy_River.jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/The_full_flowing_Vazhachal_Falls_on_the_upper_reaches_of_Chalakudy_River.jpg/960px-The_full_flowing_Vazhachal_Falls_on_the_upper_reaches_of_Chalakudy_River.jpg",
+    "credit": {
+      "author": "Jan Joseph George",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:The_full_flowing_Vazhachal_Falls_on_the_upper_reaches_of_Chalakudy_River.jpg"
+    },
+    "photo": "photos/vazhachal.jpg"
+  },
+  "kalamandalam": {
+    "source": "https://en.wikipedia.org/wiki/Kerala_Kalamandalam",
+    "coordinates": {
+      "lat": 10.737598,
+      "lon": 76.277087,
+      "primary": "",
+      "globe": "earth"
+    },
+    "photoFile": "Koothambalam_at_Kerala_Kalamandalam.jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Koothambalam_at_Kerala_Kalamandalam.jpg/960px-Koothambalam_at_Kerala_Kalamandalam.jpg",
+    "credit": {
+      "author": "Arayilpdas at Malayalam Wikipedia",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Koothambalam_at_Kerala_Kalamandalam.jpg"
+    },
+    "photo": "photos/kalamandalam.jpg"
+  },
+  "silent-valley": {
+    "source": "https://en.wikipedia.org/wiki/Silent_Valley_National_Park",
+    "coordinates": {
+      "lat": 11.13333333,
+      "lon": 76.46666667,
+      "primary": "",
+      "globe": "earth"
+    },
+    "photoFile": "SAN_BIRDS_48.jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/SAN_BIRDS_48.jpg/960px-SAN_BIRDS_48.jpg",
+    "credit": {
+      "author": "Sancia Morris",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:SAN_BIRDS_48.jpg"
+    },
+    "photo": "photos/silent-valley.jpg"
+  },
+  "nelliyampathy": {
+    "source": "https://en.wikipedia.org/wiki/Nelliampathi",
+    "coordinates": {
+      "lat": 10.529627,
+      "lon": 76.684012,
+      "primary": "",
+      "globe": "earth"
+    },
+    "photoFile": "The_Western_Ghats003.jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/The_Western_Ghats003.jpg/960px-The_Western_Ghats003.jpg",
+    "credit": {
+      "author": "Shagil Kannur",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Western_Ghats003.jpg"
+    },
+    "photo": "photos/nelliyampathy.jpg"
+  },
+  "malampuzha": {
+    "source": "https://en.wikipedia.org/wiki/Malampuzha_Dam",
+    "coordinates": {
+      "lat": 10.8305,
+      "lon": 76.68375
+    },
+    "photoFile": "Malampuzha_Dam_Navas_10.jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Malampuzha_Dam_Navas_10.jpg/960px-Malampuzha_Dam_Navas_10.jpg",
+    "credit": {
+      "author": "Navas Puthanazhi",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Malampuzha_Dam_Navas_10.jpg"
+    },
+    "photo": "photos/malampuzha.jpg",
+    "coordinateSource": "https://www.wikidata.org/wiki/Q3530977"
+  },
+  "alleppey": {
+    "source": "https://en.wikipedia.org/wiki/Alappuzha",
+    "coordinates": {
+      "lat": 9.49,
+      "lon": 76.33,
+      "primary": "",
+      "globe": "earth"
+    },
+    "photoFile": "Alappuzha_Boat_Beauty_W.jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Alappuzha_Boat_Beauty_W.jpg/960px-Alappuzha_Boat_Beauty_W.jpg",
+    "credit": {
+      "author": "Augustus Binu/ facebook",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Alappuzha_Boat_Beauty_W.jpg"
+    },
+    "photo": "photos/alleppey.jpg"
+  },
+  "marari": {
+    "source": "https://en.wikipedia.org/wiki/Marari_Beach",
+    "coordinates": {
+      "lat": 9.602527,
+      "lon": 76.299877,
+      "primary": "",
+      "globe": "earth"
+    },
+    "photoFile": "Marari_Beach_Sunset_01.JPG",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Marari_Beach_Sunset_01.JPG/960px-Marari_Beach_Sunset_01.JPG",
+    "credit": {
+      "author": "Mahendra M",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Marari_Beach_Sunset_01.JPG"
+    },
+    "photo": "photos/marari.jpg"
+  },
+  "kuttanad": {
+    "source": "https://en.wikipedia.org/wiki/Kuttanad",
+    "coordinates": {
+      "lat": 9.425,
+      "lon": 76.46388889,
+      "primary": "",
+      "globe": "earth"
+    },
+    "photoFile": "Kerala_Kuttanad1.jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Kerala_Kuttanad1.jpg/960px-Kerala_Kuttanad1.jpg",
+    "credit": {
+      "author": "Sourav Niyogi",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Kerala_Kuttanad1.jpg"
+    },
+    "photo": "photos/kuttanad.jpg"
+  },
+  "kumarakom": {
+    "source": "https://en.wikipedia.org/wiki/Kumarakom",
+    "coordinates": {
+      "lat": 9.595,
+      "lon": 76.43027778,
+      "primary": "",
+      "globe": "earth"
+    },
+    "photoFile": "Kumarkom.jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Kumarkom.jpg/960px-Kumarkom.jpg",
+    "credit": {
+      "author": "Jigyasu",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Kumarkom.jpg"
+    },
+    "photo": "photos/kumarakom.jpg"
+  },
+  "illikkal": {
+    "source": "https://en.wikipedia.org/wiki/Illickal_Kallu",
+    "coordinates": {
+      "lat": 9.745227,
+      "lon": 76.8117649,
+      "primary": "",
+      "globe": "earth"
+    },
+    "photoFile": "Illikkal_Kallu_(ഇല്ലിക്കൽ_കല്ല്_).jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Illikkal_Kallu_%28%E0%B4%87%E0%B4%B2%E0%B5%8D%E0%B4%B2%E0%B4%BF%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B5%BD_%E0%B4%95%E0%B4%B2%E0%B5%8D%E0%B4%B2%E0%B5%8D_%29.jpg/960px-Illikkal_Kallu_%28%E0%B4%87%E0%B4%B2%E0%B5%8D%E0%B4%B2%E0%B4%BF%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B5%BD_%E0%B4%95%E0%B4%B2%E0%B5%8D%E0%B4%B2%E0%B5%8D_%29.jpg",
+    "credit": {
+      "author": "Hciteam1",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Illikkal_Kallu_(%E0%B4%87%E0%B4%B2%E0%B5%8D%E0%B4%B2%E0%B4%BF%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B5%BD_%E0%B4%95%E0%B4%B2%E0%B5%8D%E0%B4%B2%E0%B5%8D_).jpg"
+    },
+    "photo": "photos/illikkal.jpg"
+  },
+  "kochi": {
+    "source": "https://en.wikipedia.org/wiki/Fort_Kochi",
+    "coordinates": {
+      "lat": 9.9658,
+      "lon": 76.2421,
+      "primary": "",
+      "globe": "earth"
+    },
+    "photoFile": "Kochi,_Fishing_nets_at_sunset,_Kerala,_India.jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Kochi%2C_Fishing_nets_at_sunset%2C_Kerala%2C_India.jpg/960px-Kochi%2C_Fishing_nets_at_sunset%2C_Kerala%2C_India.jpg",
+    "credit": {
+      "author": "Vyacheslav Argenberg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Kochi,_Fishing_nets_at_sunset,_Kerala,_India.jpg"
+    },
+    "photo": "photos/kochi.jpg"
+  },
+  "cherai": {
+    "source": "https://en.wikipedia.org/wiki/Cherai_Beach",
+    "coordinates": {
+      "lat": 10.14227,
+      "lon": 76.178255,
+      "primary": "",
+      "globe": "earth"
+    },
+    "photoFile": "Sunrise_at_Cherai_Beach.jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Sunrise_at_Cherai_Beach.jpg/960px-Sunrise_at_Cherai_Beach.jpg",
+    "credit": {
+      "author": "Jan J George",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Sunrise_at_Cherai_Beach.jpg"
+    },
+    "photo": "photos/cherai.jpg"
+  },
+  "thattekad": {
+    "source": "https://en.wikipedia.org/wiki/Thattekad_Bird_Sanctuary",
+    "coordinates": {
+      "lat": 10.13,
+      "lon": 76.68,
+      "primary": "",
+      "globe": "earth"
+    },
+    "photoFile": "Ocyceros_griseus_-India-8a.jpg",
+    "remote": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Ocyceros_griseus_-India-8a.jpg",
+    "credit": {
+      "author": "Lip Kee Yap",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Ocyceros_griseus_-India-8a.jpg"
+    },
+    "photo": "photos/thattekad.jpg"
+  },
+  "gavi": {
+    "source": "https://en.wikipedia.org/wiki/Gavi,_Kerala",
+    "coordinates": {
+      "lat": 9.44047778,
+      "lon": 77.16034722
+    },
+    "photoFile": "Gavi_Eco_tourism_center_kochupamba.jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Gavi_Eco_tourism_center_kochupamba.jpg/960px-Gavi_Eco_tourism_center_kochupamba.jpg",
+    "credit": {
+      "author": "Prasanth C7",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source": "https://commons.wikimedia.org/wiki/File:Gavi_Eco_tourism_center_kochupamba.jpg"
+    },
+    "photo": "photos/gavi.jpg",
+    "coordinateSource": "https://www.wikidata.org/wiki/Q5528054"
+  },
+  "konni": {
+    "source": "https://en.wikipedia.org/wiki/Konni,_Kerala",
+    "coordinates": {
+      "lat": 9.2410383,
+      "lon": 76.8783975,
+      "primary": "",
+      "globe": "earth"
+    },
+    "photoFile": "കോന്നി_ആനക്കൂട്2.JPG",
+    "remote": "https://upload.wikimedia.org/wikipedia/commons/9/91/%E0%B4%95%E0%B5%8B%E0%B4%A8%E0%B5%8D%E0%B4%A8%E0%B4%BF_%E0%B4%86%E0%B4%A8%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B5%82%E0%B4%9F%E0%B5%8D2.JPG",
+    "credit": {
+      "author": "Abeyemathews at Malayalam Wikipedia.",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:%E0%B4%95%E0%B5%8B%E0%B4%A8%E0%B5%8D%E0%B4%A8%E0%B4%BF_%E0%B4%86%E0%B4%A8%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B5%82%E0%B4%9F%E0%B5%8D2.JPG"
+    },
+    "photo": "photos/konni.jpg"
+  },
+  "aranmula": {
+    "source": "https://en.wikipedia.org/wiki/Aranmula",
+    "coordinates": {
+      "lat": 9.33,
+      "lon": 76.68,
+      "primary": "",
+      "globe": "earth"
+    },
+    "photoFile": "Aranmula_Temple.JPG",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Aranmula_Temple.JPG/960px-Aranmula_Temple.JPG",
+    "credit": {
+      "author": "Sudhirn",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Aranmula_Temple.JPG"
+    },
+    "photo": "photos/aranmula.jpg"
+  },
+  "munroe": {
+    "source": "https://en.wikipedia.org/wiki/Munroe_Island",
+    "coordinates": {
+      "lat": 9,
+      "lon": 76.61666667,
+      "primary": "",
+      "globe": "earth"
+    },
+    "photoFile": "Beautiful_Munroe_Island_,_kollam_district_,_kerala.jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Beautiful_Munroe_Island_%2C_kollam_district_%2C_kerala.jpg/960px-Beautiful_Munroe_Island_%2C_kollam_district_%2C_kerala.jpg",
+    "credit": {
+      "author": "Kkkriku",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Beautiful_Munroe_Island_,_kollam_district_,_kerala.jpg"
+    },
+    "photo": "photos/munroe.jpg"
+  },
+  "thenmala": {
+    "source": "https://en.wikipedia.org/wiki/Thenmala",
+    "coordinates": {
+      "lat": 8.95,
+      "lon": 77.06666667,
+      "primary": "",
+      "globe": "earth"
+    },
+    "photoFile": "13_kannara_bridge_near_shencottah.jpeg",
+    "remote": "https://upload.wikimedia.org/wikipedia/commons/8/82/13_kannara_bridge_near_shencottah.jpeg",
+    "credit": {
+      "author": "Tonymshaji6",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:13_kannara_bridge_near_shencottah.jpeg"
+    },
+    "photo": "photos/thenmala.jpg"
+  },
+  "ashtamudi": {
+    "source": "https://en.wikipedia.org/wiki/Ashtamudi_Lake",
+    "coordinates": {
+      "lat": 8.96666667,
+      "lon": 76.58333333,
+      "primary": "",
+      "globe": "earth"
+    },
+    "photoFile": "Ashtamudi_Kerala.jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Ashtamudi_Kerala.jpg/960px-Ashtamudi_Kerala.jpg",
+    "credit": {
+      "author": "The Raviz",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Ashtamudi_Kerala.jpg"
+    },
+    "photo": "photos/ashtamudi.jpg"
+  },
+  "varkala": {
+    "source": "https://en.wikipedia.org/wiki/Varkala_Beach",
+    "coordinates": {
+      "lat": 8.7337,
+      "lon": 76.7048
+    },
+    "photoFile": "Varkala_beach_from_above.jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Varkala_beach_from_above.jpg/960px-Varkala_beach_from_above.jpg",
+    "credit": {
+      "author": "Kondephy",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Varkala_beach_from_above.jpg"
+    },
+    "photo": "photos/varkala.jpg",
+    "coordinateSource": "https://www.wikidata.org/wiki/Q7915960"
+  },
+  "ponmudi": {
+    "source": "https://en.wikipedia.org/wiki/Ponmudi",
+    "coordinates": {
+      "lat": 8.76027778,
+      "lon": 77.11666667,
+      "primary": "",
+      "globe": "earth"
+    },
+    "photoFile": "Morning_at_Ponmudi.jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Morning_at_Ponmudi.jpg/960px-Morning_at_Ponmudi.jpg",
+    "credit": {
+      "author": "Arunelectra",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Morning_at_Ponmudi.jpg"
+    },
+    "photo": "photos/ponmudi.jpg"
+  },
+  "kovalam": {
+    "source": "https://en.wikipedia.org/wiki/Kovalam",
+    "coordinates": {
+      "lat": 8.4004,
+      "lon": 76.9787,
+      "primary": "",
+      "globe": "earth"
+    },
+    "photoFile": "Kovalam_beach_trivandrum_kerala.jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Kovalam_beach_trivandrum_kerala.jpg/960px-Kovalam_beach_trivandrum_kerala.jpg",
+    "credit": {
+      "author": "Georgeumartin",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Kovalam_beach_trivandrum_kerala.jpg"
+    },
+    "photo": "photos/kovalam.jpg"
+  },
+  "neyyar": {
+    "source": "https://en.wikipedia.org/wiki/Neyyar_Wildlife_Sanctuary",
+    "coordinates": {
+      "lat": 8.4,
+      "lon": 77.16,
+      "primary": "",
+      "globe": "earth"
+    },
+    "photoFile": "Dear park.jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Dear_park.jpg/960px-Dear_park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": {
+      "author": "Olin photography",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Dear_park.jpg"
+    },
+    "photo": "photos/neyyar.jpg"
+  },
+  "bekal": {
+    "source": "https://en.wikipedia.org/wiki/Bekal_Fort",
+    "coordinates": {
+      "lat": 12.39222222,
+      "lon": 75.0325,
+      "primary": "",
+      "globe": "earth"
+    },
+    "photoFile": "Bakel_Fort_Beach_Kasaragod7.jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Bakel_Fort_Beach_Kasaragod7.jpg/960px-Bakel_Fort_Beach_Kasaragod7.jpg",
+    "credit": {
+      "author": "Vinayaraj",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Bakel_Fort_Beach_Kasaragod7.jpg"
+    },
+    "photo": "photos/bekal.jpg"
+  },
+  "ranipuram": {
+    "source": "https://en.wikipedia.org/wiki/Ranipuram",
+    "coordinates": {
+      "lat": 12.421114,
+      "lon": 75.350075,
+      "primary": "",
+      "globe": "earth"
+    },
+    "photoFile": "Ranipuram.jpg",
+    "remote": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Ranipuram.jpg",
+    "credit": {
+      "author": "Bibu Raj from THRISSUR, INDIA",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Ranipuram.jpg"
+    },
+    "photo": "photos/ranipuram.jpg"
+  },
+  "valiyaparamba": {
+    "source": "https://en.wikipedia.org/wiki/Valiyaparamba",
+    "coordinates": {
+      "lat": 12.144443,
+      "lon": 75.144323,
+      "primary": "",
+      "globe": "earth"
+    },
+    "photoFile": "Valiyaparamba_Madakkal_suspension_bridge.JPG",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Valiyaparamba_Madakkal_suspension_bridge.JPG/960px-Valiyaparamba_Madakkal_suspension_bridge.JPG",
+    "credit": {
+      "author": "Alertedlevel2",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Valiyaparamba_Madakkal_suspension_bridge.JPG"
+    },
+    "photo": "photos/valiyaparamba.jpg"
+  },
+  "paithalmala": {
+    "source": "https://en.wikipedia.org/wiki/Paithalmala",
+    "coordinates": {
+      "lat": 12.1701,
+      "lon": 75.5567
+    },
+    "photoFile": "Paithalmala.jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Paithalmala.jpg/960px-Paithalmala.jpg",
+    "credit": {
+      "author": "Rawbin",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Paithalmala.jpg"
+    },
+    "photo": "photos/paithalmala.jpg",
+    "coordinateSource": "https://www.wikidata.org/wiki/Q7908895"
+  },
+  "muzhappilangad": {
+    "source": "https://en.wikipedia.org/wiki/Muzhappilangad_Beach",
+    "coordinates": {
+      "lat": 11.796211,
+      "lon": 75.44203,
+      "primary": "",
+      "globe": "earth"
+    },
+    "photoFile": "Muzhappilangad_Drive-in_Beach_2.jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Muzhappilangad_Drive-in_Beach_2.jpg/960px-Muzhappilangad_Drive-in_Beach_2.jpg",
+    "credit": {
+      "author": "Shagil Kannur",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Muzhappilangad_Drive-in_Beach_2.jpg"
+    },
+    "photo": "photos/muzhappilangad.jpg"
+  },
+  "aralam": {
+    "source": "https://en.wikipedia.org/wiki/Aralam_Butterfly_Sanctuary",
+    "coordinates": {
+      "lat": 11.87878,
+      "lon": 75.88864,
+      "primary": "",
+      "globe": "earth"
+    },
+    "photoFile": "ആറളം_വന്യജീവി_സംരക്ഷണകേന്ദ്രം-കവാടം.jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/%E0%B4%86%E0%B4%B1%E0%B4%B3%E0%B4%82_%E0%B4%B5%E0%B4%A8%E0%B5%8D%E0%B4%AF%E0%B4%9C%E0%B5%80%E0%B4%B5%E0%B4%BF_%E0%B4%B8%E0%B4%82%E0%B4%B0%E0%B4%95%E0%B5%8D%E0%B4%B7%E0%B4%A3%E0%B4%95%E0%B5%87%E0%B4%A8%E0%B5%8D%E0%B4%A6%E0%B5%8D%E0%B4%B0%E0%B4%82-%E0%B4%95%E0%B4%B5%E0%B4%BE%E0%B4%9F%E0%B4%82.jpg/960px-%E0%B4%86%E0%B4%B1%E0%B4%B3%E0%B4%82_%E0%B4%B5%E0%B4%A8%E0%B5%8D%E0%B4%AF%E0%B4%9C%E0%B5%80%E0%B4%B5%E0%B4%BF_%E0%B4%B8%E0%B4%82%E0%B4%B0%E0%B4%95%E0%B5%8D%E0%B4%B7%E0%B4%A3%E0%B4%95%E0%B5%87%E0%B4%A8%E0%B5%8D%E0%B4%A6%E0%B5%8D%E0%B4%B0%E0%B4%82-%E0%B4%95%E0%B4%B5%E0%B4%BE%E0%B4%9F%E0%B4%82.jpg",
+    "credit": {
+      "author": "Original uploaded by Manojk (Transferred by sreejithk2000)",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:%E0%B4%86%E0%B4%B1%E0%B4%B3%E0%B4%82_%E0%B4%B5%E0%B4%A8%E0%B5%8D%E0%B4%AF%E0%B4%9C%E0%B5%80%E0%B4%B5%E0%B4%BF_%E0%B4%B8%E0%B4%82%E0%B4%B0%E0%B4%95%E0%B5%8D%E0%B4%B7%E0%B4%A3%E0%B4%95%E0%B5%87%E0%B4%A8%E0%B5%8D%E0%B4%A6%E0%B5%8D%E0%B4%B0%E0%B4%82-%E0%B4%95%E0%B4%B5%E0%B4%BE%E0%B4%9F%E0%B4%82.jpg"
+    },
+    "photo": "photos/aralam.jpg"
+  },
+  "kozhikode": {
+    "source": "https://en.wikipedia.org/wiki/Kozhikode_Beach",
+    "coordinates": {
+      "lat": 11.257716404789939,
+      "lon": 75.76902256875444
+    },
+    "photoFile": "Kozhikode_Beach_Coastline.jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Kozhikode_Beach_Coastline.jpg/960px-Kozhikode_Beach_Coastline.jpg",
+    "credit": {
+      "author": "Sulyab Thottungal",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Kozhikode_Beach_Coastline.jpg"
+    },
+    "photo": "photos/kozhikode.jpg",
+    "coordinateSource": "https://www.wikidata.org/wiki/Q56240718"
+  },
+  "thusharagiri": {
+    "source": "https://en.wikipedia.org/wiki/Thusharagiri_Falls",
+    "coordinates": {
+      "lat": 11.47256667,
+      "lon": 76.05373056,
+      "primary": "",
+      "globe": "earth"
+    },
+    "photoFile": "Thusharagiri_Waterfalls_-_തുഷാരഗിരി_വെള്ളച്ചാട്ടം_09.jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Thusharagiri_Waterfalls_-_%E0%B4%A4%E0%B5%81%E0%B4%B7%E0%B4%BE%E0%B4%B0%E0%B4%97%E0%B4%BF%E0%B4%B0%E0%B4%BF_%E0%B4%B5%E0%B5%86%E0%B4%B3%E0%B5%8D%E0%B4%B3%E0%B4%9A%E0%B5%8D%E0%B4%9A%E0%B4%BE%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B4%82_09.jpg/960px-Thusharagiri_Waterfalls_-_%E0%B4%A4%E0%B5%81%E0%B4%B7%E0%B4%BE%E0%B4%B0%E0%B4%97%E0%B4%BF%E0%B4%B0%E0%B4%BF_%E0%B4%B5%E0%B5%86%E0%B4%B3%E0%B5%8D%E0%B4%B3%E0%B4%9A%E0%B5%8D%E0%B4%9A%E0%B4%BE%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B4%82_09.jpg",
+    "credit": {
+      "author": "Shijan Kaakkara",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Thusharagiri_Waterfalls_-_%E0%B4%A4%E0%B5%81%E0%B4%B7%E0%B4%BE%E0%B4%B0%E0%B4%97%E0%B4%BF%E0%B4%B0%E0%B4%BF_%E0%B4%B5%E0%B5%86%E0%B4%B3%E0%B5%8D%E0%B4%B3%E0%B4%9A%E0%B5%8D%E0%B4%9A%E0%B4%BE%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B4%82_09.jpg"
+    },
+    "photo": "photos/thusharagiri.jpg"
+  },
+  "kadalundi": {
+    "source": "https://en.wikipedia.org/wiki/Kadalundi_Bird_Sanctuary",
+    "coordinates": {
+      "lat": 11.131,
+      "lon": 75.829,
+      "primary": "",
+      "globe": "earth"
+    },
+    "photoFile": "Kadalundi_Bird_Sanctuary.jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Kadalundi_Bird_Sanctuary.jpg/960px-Kadalundi_Bird_Sanctuary.jpg",
+    "credit": {
+      "author": "Dhruvaraj S",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Kadalundi_Bird_Sanctuary.jpg"
+    },
+    "photo": "photos/kadalundi.jpg"
+  },
+  "nilambur": {
+    "source": "https://en.wikipedia.org/wiki/Nilambur",
+    "coordinates": {
+      "lat": 11.2855,
+      "lon": 76.2386,
+      "primary": "",
+      "globe": "earth"
+    },
+    "photoFile": "Great_Horn_Bill_1.jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Great_Horn_Bill_1.jpg/960px-Great_Horn_Bill_1.jpg",
+    "credit": {
+      "author": "NajeemudeenKP",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Great_Horn_Bill_1.jpg"
+    },
+    "photo": "photos/nilambur.jpg"
+  },
+  "kodikuthimala": {
+    "source": "https://en.wikipedia.org/wiki/Kodikuthimala",
+    "coordinates": null,
+    "photoFile": "Kodikuthimala,_Malappuram.jpg",
+    "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Kodikuthimala%2C_Malappuram.jpg/960px-Kodikuthimala%2C_Malappuram.jpg",
+    "credit": {
+      "author": "Quraishie",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Kodikuthimala,_Malappuram.jpg"
+    },
+    "photo": "photos/kodikuthimala.jpg"
+  }
+}
